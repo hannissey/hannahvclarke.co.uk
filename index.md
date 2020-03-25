@@ -17,7 +17,7 @@
 
 I’m Hannah, a web designer based in Preston. I’m currently updating my website.
 
-If you’re looking for my singing page, I’ve had a rebrand – please visit <a>http://www.donnatrilby.com</a></p>
+If you’re looking for my singing page, I’ve had a rebrand – please visit <a href="http://www.donnatrilby.com">http://www.donnatrilby.com</a></p>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
